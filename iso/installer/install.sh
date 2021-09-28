@@ -746,6 +746,10 @@ case $myCONF_TPOT_FLAVOR in
     fuBANNER "MEDICAL"
     ln -s /opt/tpot/etc/compose/medical.yml $myTPOTCOMPOSE
   ;;
+  LIGHT)
+    fuBANNER "LIGHT"
+    ln -s /opt/tpot/etc/compose/light.yml $myTPOTCOMPOSE
+  ;;
 esac
 
 # Let's load docker images
