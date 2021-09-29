@@ -1,4 +1,4 @@
-![T-Pot](doc/tpotsocial.png)
+![T-Pot](doc/logo_trap.jpg)
 
 T-Pot 20.06 runs on Debian (Stable), is based heavily on
 
