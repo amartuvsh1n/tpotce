@@ -1,4 +1,3 @@
-old
 #!/bin/bash
 # TrapPot Universal Installer
 
