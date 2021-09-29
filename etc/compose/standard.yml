@@ -526,6 +526,7 @@ services:
      - "0.0.0.0:64298:9200"
     image: "dtagdevsec/elasticsearch:2006"
     volumes:
+     - /opt/tpot/docker/elk/elasticsearch/dist:/usr/share/elasticsearch/config/elasticsearch.yml
      - /data:/data
 
 ## Kibana service
